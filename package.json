@@ -1,0 +1,29 @@
+{
+  "name": "logr-utility",
+  "version": "1.0.0",
+  "description": "Logging Utility",
+  "main": "utility.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VermillionOne/logr-utility.git"
+  },
+  "keywords": [
+    "logr"
+  ],
+  "author": "Tim Castillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VermillionOne/logr-utility/issues"
+  },
+  "homepage": "https://github.com/VermillionOne/logr-utility#readme"
+}
