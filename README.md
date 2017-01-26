@@ -17,6 +17,7 @@ Instead of `console.log()`, use `logr.debug()`.
 
 The debug method accepts three arguments. The first is the title of what you are logging, the second is the object being logged, and the third, if using an API, is the status that coincides with the response. The following might be used if you are looking to log the object returned when getting a list of users.
 
+
 ```
 logr.debug("/GET users", users, 200);
 ```
